@@ -1,7 +1,6 @@
 ### Hi, my name is António albino José Miguel 👋
 
-<!--
-**antoniomiguel-77/antoniomiguel-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Him...
 - ⚡ Fun fact: make the world a better place ...
--->
